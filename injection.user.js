@@ -1,8 +1,8 @@
 // ==UserScript==  
 // @name         Javascript Injection
 // @version      0.8.1
-// @author       larryhou@foxmail.com
-// @namespace    https://github.com/larryhou
+// @author       bugwhen@gmail.com
+// @namespace    https://github.com/bugzhu
 // @description  Chrome扩展测试：JS注入Demo
 // @match        *://www.baidu.com/*
 // ==/UserScript== 
